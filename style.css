@@ -6,9 +6,10 @@
     --couleur2: #F4F4F4
 }
 body{
-    margin: 0;
-    margin-left: 30%;
-    margin-right: 30%
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 15%;
+    margin-right: 15%;
     font-family: sans-serif;
     line-height: 1.5;
 }
@@ -219,6 +220,14 @@ a.portfolio-back{
 
 /* RESPONSIVE DESIGN : MOBILE */
 @media only screen and (max-width: 767px) {
+    body{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-family: sans-serif;
+    line-height: 1.5;
+}
     img.cover_profile {
         height: 90px;
         margin-top: 75px;
