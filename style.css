@@ -149,6 +149,7 @@ div.barre-verticale {
 }
 .col-portfolio {
     width: 47%;
+    text-align: center;
 }
 div.frame {
     margin: 30px 50px;
